@@ -1,0 +1,14 @@
+D:\Delegate.Tasks24.10\Delegate.Tasks24.10\bin\Debug\net6.0\Delegate.Tasks24.10.exe
+D:\Delegate.Tasks24.10\Delegate.Tasks24.10\bin\Debug\net6.0\Delegate.Tasks24.10.deps.json
+D:\Delegate.Tasks24.10\Delegate.Tasks24.10\bin\Debug\net6.0\Delegate.Tasks24.10.runtimeconfig.json
+D:\Delegate.Tasks24.10\Delegate.Tasks24.10\bin\Debug\net6.0\Delegate.Tasks24.10.dll
+D:\Delegate.Tasks24.10\Delegate.Tasks24.10\bin\Debug\net6.0\Delegate.Tasks24.10.pdb
+D:\Delegate.Tasks24.10\Delegate.Tasks24.10\obj\Debug\net6.0\Delegate.Tasks24.10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Delegate.Tasks24.10\Delegate.Tasks24.10\obj\Debug\net6.0\Delegate.Tasks24.10.AssemblyInfoInputs.cache
+D:\Delegate.Tasks24.10\Delegate.Tasks24.10\obj\Debug\net6.0\Delegate.Tasks24.10.AssemblyInfo.cs
+D:\Delegate.Tasks24.10\Delegate.Tasks24.10\obj\Debug\net6.0\Delegate.Tasks24.10.csproj.CoreCompileInputs.cache
+D:\Delegate.Tasks24.10\Delegate.Tasks24.10\obj\Debug\net6.0\Delegate.Tasks24.10.dll
+D:\Delegate.Tasks24.10\Delegate.Tasks24.10\obj\Debug\net6.0\refint\Delegate.Tasks24.10.dll
+D:\Delegate.Tasks24.10\Delegate.Tasks24.10\obj\Debug\net6.0\Delegate.Tasks24.10.pdb
+D:\Delegate.Tasks24.10\Delegate.Tasks24.10\obj\Debug\net6.0\Delegate.Tasks24.10.genruntimeconfig.cache
+D:\Delegate.Tasks24.10\Delegate.Tasks24.10\obj\Debug\net6.0\ref\Delegate.Tasks24.10.dll
